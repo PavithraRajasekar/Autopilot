@@ -14,4 +14,4 @@ A sampled dataset of the original codeparrot cleaned dataset can be found in the
 Training dataset in [Pavithra/autopilot-sampled50k-train](https://huggingface.co/datasets/Pavithra/autopilot-sampled50k-train) <br />
 Validation dataset in [Pavithra/autopilot-sampled50k-valid](https://huggingface.co/datasets/Pavithra/autopilot-sampled50k-train) <br />
 
-Please go to sectionb Inference in the notebook, where you can load the fine-tuned tokenizers and models for retrieving code generation results with the given prompts.
+Please go to section Inference in the notebook, where you can load the fine-tuned tokenizers and models for retrieving code generation results with the given prompts.
