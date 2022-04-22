@@ -8,6 +8,6 @@ This project is part of the course IFT-6289 Modern NLP. We demonstrate the train
 | GPT-Neo                      | Pavithra/codeparrot-ds-sample-gpt-small-neo-10epoch1 | 2          |               1.547 |          4.696 |
 | GPT-2 with MADGRAD optimizer | Tokenizer - Pavithra/Autopilot-madgrad-training-version-1 <br /> Model - Pavithra/madgrad-best-version| 2          |       1.94     |          11.332      |
 
-A sampled dataset of the original codeparrot cleaned dataset can be found here.
-Training dataset in Pavithra/autopilot-sampled50k-train
-Validation dataset in Pavithra/autopilot-sampled50k-valid
+A sampled dataset of the original codeparrot cleaned dataset can be found here.<br />
+Training dataset in Pavithra/autopilot-sampled50k-train <br />
+Validation dataset in Pavithra/autopilot-sampled50k-valid <br />
